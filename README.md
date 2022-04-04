@@ -10,7 +10,7 @@ Like mnist dataset, these images are 28*28 pixels, with 60000 images in training
 
 ## how to load and plot
 
-'''python
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -29,4 +29,4 @@ for i in range(25):
     plt.imshow(train_images[i], cmap=plt.cm.binary)
     plt.xlabel(train_labels[i])
 plt.show()
-'''
+```
