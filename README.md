@@ -5,7 +5,7 @@ Can you train a machine learning model to use this dataset to identify whether t
 
 Like mnist dataset, these images are 28*28 pixels, with 60000 images in training dataset and 10000 images in testing dataset.
 
-<img width="525" alt="5b5bcc23d5db21695a57f791e33429e" src="https://user-images.githubusercontent.com/68770027/161553653-73466714-feda-43a9-a1b4-b6aa143aa5d1.png">
+![output](https://user-images.githubusercontent.com/68770027/162715593-0ce8bc17-8369-4458-a4c7-a4b023b6292a.png)
 
 
 ## how to load and plot
